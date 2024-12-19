@@ -1,5 +1,5 @@
-public class Main {
-	public static void main(String[] args) {
+public class Main2 {
+	public static void main2(String[] args) {
 		// Объявляем переменные
 		double currentBalance = 100.0; // Начальный баланс на счету
 		double topUpAmount = 1100.0; // Сумма пополнения
